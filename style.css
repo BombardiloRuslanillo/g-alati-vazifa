@@ -1,0 +1,27 @@
+.tt{
+    font-size: 50px; text-align: center;
+}
+.eee{
+    background-color: #F4F0EC; width: 1199px; height: 679px; border-radius: 70px;
+}
+.ff{
+    background-color: #FFFFFF; width: 370px; height: 339px; border-radius: 30px;
+}
+.gg{
+   display: flex; text-align: center;
+}
+.y{
+    font-size: 25px; 
+}
+.s{
+    font-size: 18px; 
+}
+.v{
+   display: flex;
+}
+.c{
+    font-size: 22px;
+}
+.qa{
+    display: flex; gap: 20px;
+}
